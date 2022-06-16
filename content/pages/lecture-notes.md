@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the lecture notes for each session of the course.
+  The lecture notes are available in a single file as well.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Lecture Notes
 uid: 51795f47-b0a7-27bc-c98c-3f74c8795b64
 ---
 
-The lecture notes are available in a single file as well ([PDF - 13.2 MB]({{< baseurl >}}/resources/full)).
+The lecture notes are available in a single file as well ({{% resource_link 2d0bc701-ca48-6030-ee7c-3a1459993b94 "PDF - 13.2 MB" %}}).
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -27,7 +29,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-_Shallow Water Gravity Waves_ ([PDF]({{< baseurl >}}/resources/ch1))  
+_Shallow Water Gravity Waves_ ({{% resource_link 7c0f5fcd-5432-e0e6-4219-302ba4a13e96 "PDF" %}})  
   
 1.1 Surface Motions on Shallow Water  
   
@@ -69,7 +71,7 @@ _Shallow Water Gravity Waves (cont.)_
 3
 {{< tdclose >}}
 {{< tdopen >}}
-_Deep Water Gravity Waves_ ([PDF]({{< baseurl >}}/resources/ch2))  
+_Deep Water Gravity Waves_ ({{% resource_link aa8f2eb1-d6dc-53b4-d471-42060a2881ff "PDF" %}})  
   
 2.1 Surface Motions on Water of Finite Depth  
   
@@ -113,7 +115,7 @@ _Deep Water Gravity Waves (cont.)_
 5
 {{< tdclose >}}
 {{< tdopen >}}
-_Internal Gravity Waves_ ([PDF - 1.5 MB]({{< baseurl >}}/resources/ch3))  
+_Internal Gravity Waves_ ({{% resource_link 7f21aa3f-5593-9d30-bd7f-2b7e69a892bb "PDF - 1.5 MB" %}})  
   
 3.1 Interfacial Waves  
   
@@ -170,7 +172,7 @@ Mid-Term Quiz 1
 8
 {{< tdclose >}}
 {{< tdopen >}}
-_Tides_ ([PDF 1 of 2 - 3.0 MB]({{< baseurl >}}/resources/ch4_a)) ([PDF 2 of 2]({{< baseurl >}}/resources/ch4_b))  
+_Tides_ ({{% resource_link 30476180-c54f-ce09-0cde-818fc60ba2ff "PDF 1 of 2 - 3.0 MB" %}}) ({{% resource_link 1fbd4d05-49a9-7352-9cf5-7c55f846e51b "PDF 2 of 2" %}})  
   
 4.1 Tidal Forcing  
   
@@ -212,7 +214,7 @@ _Tides (cont.)_
 10
 {{< tdclose >}}
 {{< tdopen >}}
-_Large-scale Motions on a Rotating Earth_ ([PDF]({{< baseurl >}}/resources/ch5))  
+_Large-scale Motions on a Rotating Earth_ ({{% resource_link b20138cc-2653-f70b-4a49-f82b0ab7ba7a "PDF" %}})  
   
 5.1 The Equations of Motion on a Rotating Plane  
   
@@ -242,7 +244,7 @@ _Large-scale Motions on a Rotating Earth (cont.)_
 12
 {{< tdclose >}}
 {{< tdopen >}}
-_Rossby Waves and Planetary Scale Motions_ ([PDF]({{< baseurl >}}/resources/ch6))  
+_Rossby Waves and Planetary Scale Motions_ ({{% resource_link 73b2d5d8-e3a1-8b10-7509-fba4eead4841 "PDF" %}})  
   
 6.1 Observed Planetary Scale Waves in the Atmosphere  
   
@@ -301,7 +303,7 @@ Mid-Term Quiz 2
 15
 {{< tdclose >}}
 {{< tdopen >}}
-_Baroclinic Instability and Midlatitude Storms_ ([PDF - 2.2 MB]({{< baseurl >}}/resources/ch7))  
+_Baroclinic Instability and Midlatitude Storms_ ({{% resource_link fab52703-21a4-f769-97f1-29f56756adc2 "PDF - 2.2 MB" %}})  
   
 7.1 Three-dimensional Geostrophic Flow  
   
@@ -347,7 +349,7 @@ _Baroclinic Instability and Midlatitude Storms (cont.)_
 17
 {{< tdclose >}}
 {{< tdopen >}}
-_The Equatorial Atmosphere and Ocean_ ([PDF 1 of 2 - 2.9 MB]({{< baseurl >}}/resources/ch8_a)) ([PDF 2 of 2 - 1.5 MB]({{< baseurl >}}/resources/ch8_b))  
+_The Equatorial Atmosphere and Ocean_ ({{% resource_link 71018dcc-2ae2-635d-d840-f3bff1bb3c18 "PDF 1 of 2 - 2.9 MB" %}}) ({{% resource_link 0a3044b7-f306-e028-d2ac-f6d5f9eacfa3 "PDF 2 of 2 - 1.5 MB" %}})  
   
 8.1 Tropical Meteorological Maps  
   
@@ -385,7 +387,7 @@ _The Equatorial Atmosphere and Ocean (cont.)_
 19
 {{< tdclose >}}
 {{< tdopen >}}
-_El Niño and the Southern Oscillation_ ([PDF - 1.4 MB]({{< baseurl >}}/resources/ch9))  
+_El Niño and the Southern Oscillation_ ({{% resource_link fc6d3fc6-2880-f84a-e200-d70c740557ff "PDF - 1.4 MB" %}})  
   
 9.1 Interannual Fluctuations of the Walker Circulation: The "Southern Oscillation"  
   

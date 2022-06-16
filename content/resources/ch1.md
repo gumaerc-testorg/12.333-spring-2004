@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of lecture with diagrams.
-file: /media/courses/12-333-atmospheric-and-ocean-circulations-spring-2004/7c0f5fcd5432e0e64219302ba4a13e96_ch1.pdf
+file: /courses/12-333-atmospheric-and-ocean-circulations-spring-2004/7c0f5fcd5432e0e64219302ba4a13e96_ch1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: ch1.pdf
 uid: 7c0f5fcd-5432-e0e6-4219-302ba4a13e96
 ---
+Summary of lecture with diagrams.
+
