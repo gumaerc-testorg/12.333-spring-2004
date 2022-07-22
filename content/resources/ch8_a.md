@@ -5,6 +5,7 @@ file: /courses/12-333-atmospheric-and-ocean-circulations-spring-2004/71018dcc2ae
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ch8_a.pdf
 uid: 71018dcc-2ae2-635d-d840-f3bff1bb3c18
 ---
 Summary of lecture with diagrams.
-
