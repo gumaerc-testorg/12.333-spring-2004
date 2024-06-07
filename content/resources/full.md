@@ -2,6 +2,7 @@
 content_type: resource
 description: This is the entire series of lecture notes for this course.
 file: /courses/12-333-atmospheric-and-ocean-circulations-spring-2004/2d0bc701ca486030ee7c3a1459993b94_full.pdf
+file_size: 13872366
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
