@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of lecture with diagrams.
-file: /courses/12-333-atmospheric-and-ocean-circulations-spring-2004/30476180c54fce090cde818fc60ba2ff_ch4_a.pdf
+file: /ol-ocw-studio-app/courses/12-333-atmospheric-and-ocean-circulations-spring-2004/30476180c54fce090cde818fc60ba2ff_ch4_a.pdf
 file_size: 3102221
 file_type: application/pdf
 learning_resource_types:
